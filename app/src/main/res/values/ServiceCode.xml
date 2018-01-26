@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Marco Ross -->
+<resources>
+    <string-array name="Service_Code_Array">
+        <item>General Assessment</item>
+        <item>Intermediate Assessment</item>
+        <item>Minor Assessment</item>
+        <item>Consultation</item>
+    </string-array>
+</resources>

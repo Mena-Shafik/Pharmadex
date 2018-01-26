@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Marco Ross -->
+<resources>
+    <string-array name="Frequency_Array">
+        <item>OID</item>
+        <item>BID</item>
+        <item>TID</item>
+        <item>QID</item>
+        <item>Q3-4h</item>
+        <item>Q6h</item>
+        <item>Q8h</item>
+        <item>Q12h</item>
+        <item>Other: </item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Marco Ross -->
+<resources>
+    <string-array name="Dosage_Unit_Array">
+        <item>mcg.</item>
+        <item>mg.</item>
+        <item>g.</item>
+        <item>ml.</item>
+        <item>in.</item>
+        <item>units</item>
+        <item>metered-dose</item>
+        <item>other:</item>
+    </string-array>
+</resources>

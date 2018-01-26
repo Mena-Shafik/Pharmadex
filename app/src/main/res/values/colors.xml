@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Mena Shafik -->
+<resources>
+    <color name="colorPrimary">#23811d</color>
+    <color name="colorPrimaryDark">#134807</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="windowBackground">#93bf90</color>
+    <color name="buttonColor">#e1ce54</color>
+    <color name="TextColor">#000000</color>
+    <color name="borderColor">#3b3b3b</color>
+</resources>

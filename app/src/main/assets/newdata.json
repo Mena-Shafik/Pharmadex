@@ -1,0 +1,18 @@
+[
+  {
+    "userName": "mena",
+    "password": "1234",
+    "name": "Mena Shafik",
+    "PBN": "100000",
+    "EDT": "45846",
+    "locationCode": "B206"
+  },
+  {
+    "userName": "marco",
+    "password": "1234",
+    "name": "Marco Ross",
+    "PBN": "100001",
+    "EDT": "45846",
+    "locationCode": "B208"
+  }
+]

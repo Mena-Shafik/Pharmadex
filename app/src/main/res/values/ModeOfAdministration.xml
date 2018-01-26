@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Marco Ross -->
+<resources>
+    <string-array name="Mode_Admin_Array">
+        <item>per oral</item>
+        <item>inhaled</item>
+        <item>local application</item>
+        <item>intramuscular(i.m.)</item>
+        <item>subcutaneous</item>
+        <item>intravenous</item>
+        <item>intralesional</item>
+        <item>other: </item>
+    </string-array>
+</resources>
